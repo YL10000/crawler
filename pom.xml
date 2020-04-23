@@ -1,0 +1,19 @@
+需要引入的引入的依赖
+<dependencies>
+    <dependency>
+        <groupId>us.codecraft</groupId>
+        <artifactId>webmagic-core</artifactId>
+        <version>0.7.3</version>
+    </dependency>
+    <dependency>
+        <groupId>us.codecraft</groupId>
+        <artifactId>webmagic-extension</artifactId>
+        <version>0.7.3</version>
+    </dependency>
+
+    <dependency>
+        <groupId>cn.hutool</groupId>
+        <artifactId>hutool-all</artifactId>
+        <version>5.3.1</version>
+    </dependency>
+</dependencies>
